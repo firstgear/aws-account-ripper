@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Env
+py3/
+
+# Sample output / accounts
+output.*
+accountlist.py
